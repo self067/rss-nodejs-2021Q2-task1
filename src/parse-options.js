@@ -1,13 +1,12 @@
 const { logerr } = require('./log.js');
 
 module.exports = argv => {
-  const isNumber = function (n) {
-    return !isNaN(parseFloat(n)) && isFinite(n);
+  const isNumber = function(n) {
+    return !isNaN(parseInt(n)) && isFinite(n);
   };
 
   const args = {};
   for (const key in argv) {
-    // logerr(key, argv[key]);
     switch (key) {
     case '_': break;
     case 's':
