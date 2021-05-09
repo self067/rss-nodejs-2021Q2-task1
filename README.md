@@ -2,6 +2,7 @@
 
 # Task 1. Caesar cipher CLI tool
 
+
 ## CLI tool accept 4 options (short alias and full name):
 
 -s, --shift: a shift
@@ -12,23 +13,33 @@
 
 -a, --action: an action encode/decode
 
+
 ## Install 
+
+  1. Download repository
+
+  2. No additional installation required
 
 
 ## Examples:
-node src/caesar-cli.js -s 6 -a encode -i in.txt -o out.txt
 
-node src/caesar-cli.js -s=-6 -a decode -i in.txt 
+node src/caesar-cli.js -s 5 -a encode -i in.txt -o out.txt
+
+node src/caesar-cli.js -s=-333 -a decode -i in.txt 
 
 node src/caesar-cli.js -s -7 -a encode -o out.txt
 
 node src/caesar-cli.js --shift 6 --action decode --input in.txt --output out.txt
 
-node src/caesar-cli.js -s 6 -a encode -i ../in.txt -o ../test/out.txt
+node src/caesar-cli.js -s-9 -a encode -i ../in.txt -o ../test/out.txt
+
+При использовании stdin для ввода данных завершение ввода комбинацией клавиш CTRL-C
+
 
 ## Оценка приложения
 
 Score: 120/120 (12 * 10 = 120)
+
 
 ### Базовая реализация
 
