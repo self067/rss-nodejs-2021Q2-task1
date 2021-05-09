@@ -1,2 +1,70 @@
 Task 1. Caesar cipher CLI tool
 abcdefg xyz ABCDEFG XYZ
+Ubtl 1. Dbftbs djqifs DMJ uppm
+bcdefgh yza BCDEFGH YZA
+Vcum 1. Ecguct ekrjgt ENK vqqn
+cdefghi zab CDEFGHI ZAB
+Wdvn 1. Fdhvdu flskhu FOL wrro
+defghij abc DEFGHIJ ABC
+Xewo 1. Geiwev gmtliv GPM xssp
+efghijk bcd EFGHIJK BCD
+Yfxp 1. Hfjxfw hnumjw HQN yttq
+fghijkl cde FGHIJKL CDE
+Zgyq 1. Igkygx iovnkx IRO zuur
+ghijklm def GHIJKLM DEF
+Ahzr 1. Jhlzhy jpwoly JSP avvs
+hijklmn efg HIJKLMN EFG
+Bias 1. Kimaiz kqxpmz KTQ bwwt
+ijklmno fgh IJKLMNO FGH
+Cjbt 1. Ljnbja lryqna LUR cxxu
+jklmnop ghi JKLMNOP GHI
+Dkcu 1. Mkockb mszrob MVS dyyv
+klmnopq hij KLMNOPQ HIJ
+Eldv 1. Nlpdlc ntaspc NWT ezzw
+lmnopqr ijk LMNOPQR IJK
+Fmew 1. Omqemd oubtqd OXU faax
+mnopqrs jkl MNOPQRS JKL
+Gnfx 1. Pnrfne pvcure PYV gbby
+nopqrst klm NOPQRST KLM
+Hogy 1. Qosgof qwdvsf QZW hccz
+opqrstu lmn OPQRSTU LMN
+Iphz 1. Rpthpg rxewtg RAX idda
+pqrstuv mno PQRSTUV MNO
+Jqia 1. Squiqh syfxuh SBY jeeb
+qrstuvw nop QRSTUVW NOP
+Krjb 1. Trvjri tzgyvi TCZ kffc
+rstuvwx opq RSTUVWX OPQ
+Lskc 1. Uswksj uahzwj UDA lggd
+stuvwxy pqr STUVWXY PQR
+Mtld 1. Vtxltk vbiaxk VEB mhhe
+tuvwxyz qrs TUVWXYZ QRS
+Nume 1. Wuymul wcjbyl WFC niif
+uvwxyza rst UVWXYZA RST
+Ovnf 1. Xvznvm xdkczm XGD ojjg
+vwxyzab stu VWXYZAB STU
+Pwog 1. Ywaown yeldan YHE pkkh
+wxyzabc tuv WXYZABC TUV
+Qxph 1. Zxbpxo zfmebo ZIF qlli
+xyzabcd uvw XYZABCD UVW
+Ryqi 1. Aycqyp agnfcp AJG rmmj
+yzabcde vwx YZABCDE VWX
+Szrj 1. Bzdrzq bhogdq BKH snnk
+zabcdef wxy ZABCDEF WXY
+Task 1. Caesar cipher CLI tool
+abcdefg xyz ABCDEFG XYZ
+Ubtl 1. Dbftbs djqifs DMJ uppm
+bcdefgh yza BCDEFGH YZA
+Vcum 1. Ecguct ekrjgt ENK vqqn
+cdefghi zab CDEFGHI ZAB
+Wdvn 1. Fdhvdu flskhu FOL wrro
+defghij abc DEFGHIJ ABC
+Xewo 1. Geiwev gmtliv GPM xssp
+efghijk bcd EFGHIJK BCD
+Yfxp 1. Hfjxfw hnumjw HQN yttq
+fghijkl cde FGHIJKL CDE
+Zgyq 1. Igkygx iovnkx IRO zuur
+ghijklm def GHIJKLM DEF
+Ahzr 1. Jhlzhy jpwoly JSP avvs
+hijklmn efg HIJKLMN EFG
+Bias 1. Kimaiz kqxpmz KTQ bwwt
+ijklmno fgh IJKLMNO FGH

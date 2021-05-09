@@ -11,22 +11,25 @@ const args = parseOptions(argv);
 
 if (!args) {
   help();
-  process.exit(1009);
+  process.exit(109);
 }
 
+if (args.input === args.output) {
+  logerr('INPUT and OUTPUT files are the some, choose different files!');
+  help();
+  process.exit(107);
+}
 
 const streamIn = getStreamIn(args.input);
 if (!streamIn) {
-  logerr('Can\'t access INPUT file. File not exist or you don\'t have rights');
   help();
-  process.exit(1011);
+  process.exit();
 }
 
 const streamOut = getStreamOut(args.output);
 if (!streamOut) {
-  logerr('Can\'t access OUTPUT file.');
   help();
-  process.exit(1012);
+  process.exit(112);
 }
 
 const stream  = require('stream');
@@ -45,8 +48,12 @@ stream.pipeline(
   err => {
     if (err) {
       logerr(err.message);
-      process.exit(1014);
-    } else log('Transform succesfully ended.');
+      process.exit(114);
+    }  else {
+      // log('Transform succesfully ended.');
+      process.exit(0);
+    }
   }
 );
+
 
