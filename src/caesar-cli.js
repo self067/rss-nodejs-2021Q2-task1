@@ -14,7 +14,7 @@ if (!args) {
   process.exit(109);
 }
 
-if (args.input === args.output) {
+if ( args.input && args.output && args.input === args.output) {
   logerr('INPUT and OUTPUT files are the some, choose different files!');
   help();
   process.exit(107);
