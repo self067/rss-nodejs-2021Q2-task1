@@ -1,0 +1,12 @@
+{
+  "name": "rs-nodejs-2021Q2-task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/caesar-cli.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/caesar-cli.js -s 5 -a encode -i in.txt -o out.txt"
+  },
+  "author": "seltor@mail.ru",
+  "license": "ISC"
+}
